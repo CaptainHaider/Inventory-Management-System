@@ -1,0 +1,41 @@
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\bin\Debug\inventory.exe.config
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\bin\Debug\inventory.exe
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\bin\Debug\inventory.pdb
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.A_customer.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.Form1.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.Properties.Resources.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.exe
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.pdb
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.v_customer.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.A_sale.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.A_supplier.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.A_purchase.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.exe
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.pdb
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.A_customer.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.A_purchase.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.A_sale.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.A_supplier.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.Form1.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.v_customer.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\bin\Debug\inventory.exe
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\bin\Debug\inventory.pdb
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.A_item.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.V_item.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.V_purchase.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.V_supplier.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.About.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.help.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.V_sale.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.loading.resources
+J:\programming tutorials\c# projects\Inventory Final\inventory\inventory\bin\Debug\inventory.exe.config
+J:\programming tutorials\c# projects\Inventory Final\inventory\inventory\obj\x86\Debug\inventory.exe
+J:\programming tutorials\c# projects\Inventory Final\inventory\inventory\obj\x86\Debug\inventory.pdb

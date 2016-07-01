@@ -1,0 +1,38 @@
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\bin\Release\inventory.exe.config
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\bin\Release\inventory.exe
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\bin\Release\inventory.pdb
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\inventory.A_customer.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\inventory.Form1.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\inventory.Properties.Resources.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\inventory.exe
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\inventory.pdb
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\inventory.v_customer.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\inventory.A_sale.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\inventory.A_supplier.resources
+C:\Users\dell\AppData\Local\Temporary Projects\inventory\obj\x86\Release\inventory.A_purchase.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\bin\Release\inventory.exe.config
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\bin\Release\inventory.exe
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\bin\Release\inventory.pdb
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.A_customer.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.A_purchase.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.A_sale.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.A_supplier.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.Form1.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.v_customer.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.exe
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.pdb
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.A_item.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.V_item.resources
+C:\Users\dell\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.V_purchase.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.V_supplier.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.About.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.help.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.V_sale.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Release\inventory.loading.resources
